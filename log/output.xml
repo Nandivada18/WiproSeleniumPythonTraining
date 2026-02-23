@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.14.0 on win32)" generated="2026-02-18T11:41:39.975223" rpa="false" schemaversion="5">
+<suite id="s1" name="Testcase2" source="C:\Users\prasa\PycharmProjects\RobotFramework\TestSuite\Testcase2.robot">
+<test id="s1-t1" name="Verify login with valid credentials" line="7">
+<status status="FAIL" start="2026-02-18T11:41:41.106412" elapsed="0.001844">Test cannot be empty.</status>
+</test>
+<status status="FAIL" start="2026-02-18T11:41:40.137690" elapsed="0.972409"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Testcase2" id="s1" pass="0" fail="1" skip="0">Testcase2</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
