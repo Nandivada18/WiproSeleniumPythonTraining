@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.14.0 on win32)" generated="2026-02-18T13:50:43.642962" rpa="false" schemaversion="5">
+<suite id="s1" name="Resources" source="C:\Users\prasa\PycharmProjects\RobotFramework\Resources\Resources.robot">
+<test id="s1-t1" name="Verify login with valid credentials" line="7">
+<kw name="Login">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T13:50:44.279580" level="INFO">Enter usernamr</msg>
+<arg>Enter usernamr</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T13:50:44.278598" elapsed="0.001404"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T13:50:44.281160" level="INFO">Enter password</msg>
+<arg>Enter password</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T13:50:44.280724" elapsed="0.000528"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T13:50:44.281673" level="INFO">click on login button</msg>
+<arg>click on login button</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T13:50:44.281410" elapsed="0.000324"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T13:50:44.282105" level="INFO">user is on th home page</msg>
+<arg>user is on th home page</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T13:50:44.281863" elapsed="0.000300"/>
+</kw>
+<status status="PASS" start="2026-02-18T13:50:44.276309" elapsed="0.005969"/>
+</kw>
+<status status="PASS" start="2026-02-18T13:50:44.274625" elapsed="0.008076"/>
+</test>
+<test id="s1-t2" name="Verify login with valid credentials" line="10">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T13:50:44.287453" level="INFO">User selects the product</msg>
+<arg>User selects the product</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T13:50:44.286970" elapsed="0.000570"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T13:50:44.288370" level="INFO">User add the product to the cart</msg>
+<arg>User add the product to the cart</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T13:50:44.287942" elapsed="0.000534"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T13:50:44.289439" level="INFO">user verifies the product with details</msg>
+<arg>user verifies the product with details</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T13:50:44.288927" elapsed="0.000656"/>
+</kw>
+<status status="PASS" start="2026-02-18T13:50:44.283455" elapsed="0.006744"/>
+</test>
+<status status="PASS" start="2026-02-18T13:50:43.646791" elapsed="0.644442"/>
+</suite>
+<statistics>
+<total>
+<stat pass="2" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Resources" id="s1" pass="2" fail="0" skip="0">Resources</stat>
+</suite>
+</statistics>
+<errors>
+<msg time="2026-02-18T13:50:44.283678" level="WARN">Multiple tests with name 'Verify login with valid credentials' executed in suite 'Resources'.</msg>
+</errors>
+</robot>
