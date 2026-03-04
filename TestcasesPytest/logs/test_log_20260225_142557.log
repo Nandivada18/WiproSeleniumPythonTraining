@@ -1,0 +1,4 @@
+2026-02-25 14:25:57,598 - INFO - ====== WebDriver manager ======
+2026-02-25 14:26:01,654 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-25 14:26:04,116 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-02-25 14:26:05,329 - INFO - Driver [C:\Users\prasa\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache

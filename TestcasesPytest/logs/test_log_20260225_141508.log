@@ -1,0 +1,9 @@
+2026-02-25 14:15:08,758 - INFO - ====== WebDriver manager ======
+2026-02-25 14:15:11,651 - INFO - Get LATEST geckodriver version for 147.0 firefox
+2026-02-25 14:15:12,778 - INFO - Get LATEST geckodriver version for 147.0 firefox
+2026-02-25 14:15:13,489 - INFO - Get LATEST geckodriver version for 147.0 firefox
+2026-02-25 14:15:14,160 - INFO - Getting latest mozilla release info for v0.36.0
+2026-02-25 14:15:15,067 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-02-25 14:15:16,435 - INFO - Driver downloading response is 200
+2026-02-25 14:15:17,152 - INFO - Get LATEST geckodriver version for 147.0 firefox
+2026-02-25 14:15:18,574 - INFO - Driver has been saved in cache [C:\Users\prasa\.wdm\drivers\geckodriver\win64\v0.36.0]
